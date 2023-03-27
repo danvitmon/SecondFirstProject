@@ -1,0 +1,58 @@
+/*this is a comment */
+.orange-text {
+    color: #ff993b
+}
+
+.logoImage {
+    max-width: 300px;
+}
+
+header {
+    margin-bottom: 60px;
+}
+
+#heroText {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4em;
+    margin: 0;
+    text-transform: uppercase;
+    color: rgb(255, 0, 0);
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: yellow;
+    text-shadow: 2px 1px #292929;
+
+    
+}
+
+#tableHeader {
+    /* dark header */
+    background-color: #181818;
+    color: white;
+    font-size: 1.5em;
+
+}
+
+.oddrow {
+    /* darkish gray */
+    background-color: dimgray;
+
+}
+
+.oddrowtext {
+    /*lighter gray */
+    color: white;
+}
+
+.evenrow {
+    /* lighter gray */
+    background-color: #d3d3d3;
+}
+
+.heroImage {
+    /* limit size */
+    max-width: 200px;
+}
+
+table {
+    width: 90%;
+}
